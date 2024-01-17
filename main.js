@@ -1,4 +1,4 @@
-const petPromise = await fetch("https://learnwebcode.github.io/pet-adoption-data/pets.json");
+const petPromise = await fetch("pets.json");
 const pets = await petPromise.json()
 
 const template = document.querySelector("#animal-card")
@@ -20,7 +20,7 @@ pets.forEach(pet => {
     clone.querySelector(".species").textContent = pet.species
     clone.querySelector("p").textContent = pet.description
     clone.querySelector(".btn-pet-name").textContent = pet.name
-    clone.querySelector(".primary-btn").href = `https://learnwebcode.github.io/pet-adoption-data/pets/${pet.id}/`
+    clone.querySelector(".primary-btn").href = `mascotas/adoptPet.html?id=${pet.id}`
     clone.querySelector("img").src = pet.photo
     clone.querySelector("img").alt = `A ${pet.species} named ${pet.name}`
 

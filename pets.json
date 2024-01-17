@@ -1,0 +1,74 @@
+[
+  {
+    "id": "petId1",
+    "name": "Picho",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Orange_Tabby_Cat.jpg/1024px-Orange_Tabby_Cat.jpg",
+    "species": "Gato",
+    "birthYear": "2020",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta inventore quidem neque enim porro tenetur et, vel delectus minus qui, asperiores itaque vero aliquam, facere necessitatibus dolores aliquid perspiciatis? Quisquam?"
+  },
+  {
+    "id": "petId2",
+    "name": "Bingo",
+    "photo": "https://cdn.iview.abc.net.au/thumbs/1200/rf/RF2303H_65658992e7bc6_3600.jpg",
+    "species": "Perro",
+    "birthYear": "2023",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto quo, alias ullam id reprehenderit aut itaque consectetur placeat rem harum dolorum exercitationem recusandae tenetur. Illum facere laudantium explicabo blanditiis enim."
+  },
+  {
+    "id": "petId3",
+    "name": "Bugs",
+    "photo": "https://learnwebcode.github.io/pet-adoption-data/photos/hopsalot.webp",
+    "species": "Conejo",
+    "birthYear": "2024",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, libero, asperiores eaque, doloremque id aliquid nihil corrupti eos ab dignissimos quam tenetur dolorem reiciendis ex! Ea, blanditiis sint. Ad, nulla!"
+  },
+  {
+    "id": "petId4",
+    "name": "Vicente",
+    "photo": "https://hips.hearstapps.com/hmg-prod/images/bloodhound-1663107040.jpg",
+    "species": "Perro",
+    "birthYear": "2018",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sunt quos quidem itaque alias tempore quia quas reiciendis vero. Dicta rem placeat, dolorum labore neque ex consequatur magni voluptatum eaque."
+  },
+  {
+    "id": "petId5",
+    "name": "Pelusa",
+    "photo": "https://ew.com/thmb/x9eGvh2TNSbt0NyyL4EP9B0HSPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grumpy-cat-2-2000-9fa48ba1e7d843c49b5dda77593f615d.jpg",
+    "species": "Gato",
+    "birthYear": "2016",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione delectus non vel nulla nihil nobis beatae pariatur, reprehenderit repellendus, dolores aut? Quis soluta quo nemo. Laboriosam reiciendis quae expedita doloremque!"
+  },
+  {
+    "id": "petId6",
+    "name": "Lola",
+    "photo": "https://learnwebcode.github.io/pet-adoption-data/photos/bunny2.webp",
+    "species": "Conejo",
+    "birthYear": "2020",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus quidem voluptates voluptas aliquam facere impedit, assumenda voluptatum delectus asperiores, odit, at autem. Laboriosam saepe totam porro rem, laborum accusantium veniam."
+  },
+  {
+    "id": "petId7",
+    "name": "Salem",
+    "photo": "https://static.wikia.nocookie.net/thesabrinatheteenagewitch/images/e/e2/Salem.png",
+    "species": "Gato",
+    "birthYear": "2017",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis aliquid aut vel voluptate harum fugit quam sapiente. Laudantium culpa dignissimos quod, tempore ad, consequuntur unde voluptas alias vitae perferendis nobis?"
+  },
+  {
+    "id": "petId8",
+    "name": "Lapiz",
+    "photo": "https://learnwebcode.github.io/pet-adoption-data/photos/dog2.webp",
+    "species": "Perro",
+    "birthYear": "2015",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae dolore impedit reiciendis cupiditate, temporibus, aliquam quia corrupti maxime eveniet, molestias fugiat vero nesciunt consectetur! Nesciunt aperiam doloremque assumenda consequatur molestiae!"
+  },
+  {
+    "id": "petId9",
+    "name": "Destructor",
+    "photo": "https://learnwebcode.github.io/pet-adoption-data/photos/bunny3.webp",
+    "species": "Conejo",
+    "birthYear": "2021",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi magni vitae voluptatum harum est quibusdam molestias incidunt, fugit dignissimos hic consequatur molestiae error dolor nihil eos id maiores nam? Doloribus."
+  }
+]

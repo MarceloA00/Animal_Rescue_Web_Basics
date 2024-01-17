@@ -9,11 +9,11 @@ body {
 }
 
 .hero {
-    background-color: #7c109a;
+    background-color: #e7910f;
     color: white;
     padding: 50px 30px;
     text-align: center;
-    margin-bottom: 15px;
+    /*margin-bottom: 15px;*/
     position: relative;
 }
 
@@ -24,7 +24,7 @@ body {
     left: 0;
     right: 0;
     height: 10px;
-    background: linear-gradient(to left, rgb(212,0,255), #7c109a);
+    background: linear-gradient(to left, #fdd90e, #e7910f);
 }
 
 .hero:after {
@@ -34,7 +34,7 @@ body {
     left: 0;
     right: 0;
     height: 10px;
-    background: linear-gradient(to right, rgb(212,0,255), #7c109a);
+    background: linear-gradient(to right, #fdd90e, #e7910f);
 }
 
 .hero h1 {
@@ -57,25 +57,40 @@ body {
 
 .filter-nav a {
     text-decoration: none;
-    color: #7c109a;
+    color: #e7910f;
     padding: 9px;
-    border: 1px solid #bb8dd3;
+    border: 1px solid #fdd90e;
     border-radius: 4px;
     margin: 4px;
 }
 
 .filter-nav a:hover {
-    background-color: #dbbce9;
+    background-color: #fce877;
+    color: #e7910f;
 }
 
 .filter-nav .active {
-    background-color: #702acb;
-    color: white;
+    background-color: #e7910f;
+    color: white !important;
 }
 
 .filter-nav .active:hover {
-    background-color: #702acb;
+    background-color: #e7910f;
     cursor: default;
+}
+
+.filter-no-use {
+    color: black !important;
+    font-size: large;
+}
+
+.vertical-center-nav-text {
+    margin-top: 4px;
+    margin-right: 10px;
+  }
+
+.navbar {
+    margin-bottom: 30px;
 }
 
 .animals {
@@ -94,6 +109,8 @@ body {
     border-radius: 20px;
     overflow: hidden;
     margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .animal-card-photo {
@@ -136,7 +153,7 @@ body {
 }
 
 .primary-btn {
-    background: linear-gradient(#d147d1, #702acb);
+    background: linear-gradient(#d1bc47, #cb722a);
     padding: 10px;
     color: white;
     text-decoration: none;
@@ -145,12 +162,14 @@ body {
 }
 
 .primary-btn:hover {
-    background: linear-gradient(#e35ea7, #d82eb9);
+    background: linear-gradient(#e3a95e, #d85e2e);
 }
 
 @media screen and (min-width: 768px) {
     .animal-card {
         grid-template-columns: 200px 1fr;
+        margin-left: 0px;
+        margin-right: 0px;
     }
 
     .hero h1{
